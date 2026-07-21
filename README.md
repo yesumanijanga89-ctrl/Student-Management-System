@@ -17,4 +17,4 @@ This project demonstrates a Student Management System using SQL. It manages stud
 - Views
 
 ## Author
-YesumaniSystem
+Yesumani.
